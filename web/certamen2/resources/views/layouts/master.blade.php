@@ -13,7 +13,7 @@
   </head>
   <body>
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-warning">
+        <nav class="navbar navbar-expand-lg navbar-light bg-success">
         <div class="container-fluid">
             <a class="navbar-brand" href="{{route('home')}}">HOME
             </a>
